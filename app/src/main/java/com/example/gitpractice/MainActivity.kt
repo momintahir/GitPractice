@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("this is my second commmit")
-        kuch bhi
+        ye error geenerate hoga
     }
 }
