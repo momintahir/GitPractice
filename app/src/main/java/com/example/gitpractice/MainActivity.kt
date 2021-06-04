@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("this is my second commmit")
-        println("Change 1")
+        println("Change in master")
     }
 }
